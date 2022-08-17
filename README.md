@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jonathas Ricardo 👋
 
-- 🌱 Utilizando atualmente JavaScript
+- 🌱 Me aperfeiçoando no JavaScript
 - 💻 Estudo para ser front-end
 - 📽️ Gosto de assistir filmes de ficção
 
